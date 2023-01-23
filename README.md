@@ -33,8 +33,11 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/luanws">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanws&theme=algolia&show_icons=true&count_private=true&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanws&layout=compact&theme=algolia&langs_count=6"/>
+    
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanws&theme=algolia&show_icons=true&count_private=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanws&layout=compact&theme=algolia&langs_count=6"/> -->
+    <img height="180em" src="https://github-readme-stats-silk-ten.vercel.app/api?username=luanws&theme=algolia&show_icons=true&count_private=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-silk-ten.vercel.app/api/top-langs/?username=luanws&layout=compact&theme=algolia&langs_count=6"/>
 </a>
 
 
