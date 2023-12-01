@@ -33,9 +33,11 @@
 ![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)&nbsp;
 
 <!-- #### Tools -->
-<!-- ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp; -->
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 
 
 <!-- #### OS -->
@@ -49,19 +51,13 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00838b)&nbsp;
 ![ESP32](https://img.shields.io/badge/-ESP32-05122A?style=flat&logo=espressif)&nbsp;
 
-
-<!-- #### IDE -->
-<!-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp; -->
-
-<!--
-### ⚙️ &nbsp;GitHub Analytics
+<!-- ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/luanws">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanws&theme=algolia&show_icons=true&count_private=true&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanws&layout=compact&theme=algolia&langs_count=6"/>
-</a>
--->
+</a> -->
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
