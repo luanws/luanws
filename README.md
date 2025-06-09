@@ -25,7 +25,7 @@
 <!-- #### Backend frameworks -->
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring&logoColor=6DB33F)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=6DB33F)&nbsp;
 
 <!-- #### Frontend frameworks -->
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -37,8 +37,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=F5F5F5)&nbsp;
 
 
 <!-- #### OS -->
@@ -48,9 +48,8 @@
 ![Web](https://img.shields.io/badge/-Web-05122A?style=flat&logo=google-chrome&logoColor=white)&nbsp; -->
 
 <!-- #### Hardware -->
-![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=F5F5F5)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00838b)&nbsp;
-![ESP32](https://img.shields.io/badge/-ESP32-05122A?style=flat&logo=espressif)&nbsp;
+<!-- ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00838b)&nbsp;
+![ESP32](https://img.shields.io/badge/-ESP32-05122A?style=flat&logo=espressif)&nbsp; -->
 
 <!-- ### ⚙️ &nbsp;GitHub Analytics
 
