@@ -23,15 +23,14 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 
 <!-- #### Backend frameworks -->
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=6DB33F)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=6DB33F)&nbsp;
 
 <!-- #### Frontend frameworks -->
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![ReactNative](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
-![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)&nbsp;
 
 <!-- #### Tools -->
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
